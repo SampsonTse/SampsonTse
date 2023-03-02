@@ -1,6 +1,7 @@
 - 👋 Hi, I’m SampsonTse
-- 🌱 I’m currently learning DeepLearning/Golang
-- 💞️ I’m looking to collaborate on Knowledge Tracing
+- 🎓 Master Degree: South China Normal University
+- 🎓 Bachelor Degree: GuangZhou University
+- 👨‍💻 Area: Golang Server Development/Data Mining/Knowledge Tracing
 
 <!---
 SampsonTse/SampsonTse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
